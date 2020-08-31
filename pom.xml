@@ -57,8 +57,6 @@
 				<configuration>
 					<url>http://127.0.0.1/manager/text</url>
 					<path>/springtest</path>
-					<username>admin</username>
-					<password>maganer</password>
 				</configuration>
 			</plugin>
 		</plugins>
