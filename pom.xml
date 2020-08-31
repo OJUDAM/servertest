@@ -66,7 +66,7 @@
 				<artifactId>tomcat-maven-plugin</artifactId>
 				<configuration>
 					<url>http://127.0.0.1/manager/text</url>
-					<path>/springtest</path>
+					<path>/servertest</path>
 					<username>admin</username>
 					<password>manager</password>
 				</configuration>
